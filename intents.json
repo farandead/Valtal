@@ -1,0 +1,406 @@
+{
+    "intents": [
+        {
+            "tag": "introduction",
+            "patterns": [
+                "Who is Faran Zafar?",
+                "faran",
+                "who is faran",
+                "tell me about faran",
+                "introduce faran",
+                "what is faran",
+                "Tell me about Faran.",
+                "Can you introduce Faran Zafar?",
+                "What is Faran Zafar known for?",
+                "What skills does Faran Zafar have?",
+                "What is Faran Zafar studying?",
+                "What are Faran Zafar's achievements in Computer Science?"
+            ],
+            "responses": [
+                "Faran Zafar is a Computer Science student with comprehensive knowledge of programming and software development. He has also good front-end web development skills and digital skills such as photo and video editing.",
+                "Faran Zafar is known for his proficiency in computer science, specifically in the areas of programming and software development.",
+                "Faran Zafar has acquired a diverse skill set in his studies. He is well-versed in programming, software development, front-end web development, and even has digital skills such as photo and video editing.",
+                "Currently, Faran Zafar is studying Computer Science and demonstrating considerable talent in his chosen field.",
+                "Faran Zafar's achievements in Computer Science include mastering several programming languages and making significant contributions to software development projects."
+            ]
+        },
+        {
+            "tag": "cursing",
+            "patterns": [
+                "Fuck you faran",
+                "suck dick faran",
+                "whore",
+                "nudes of faran",
+                "faran is a bitch",
+                "dumb",
+                "faran is an idiot",
+                "asshole",
+                "penis",
+                "anal",
+                "anus",
+                "arse",
+                "ass",
+                "balls",
+                "ballsack",
+                "bastard",
+                "biatch",
+                "bitch",
+                "bloody",
+                "blow job",
+                "blowjob",
+                "bollock",
+                "bollok",
+                "boner",
+                "boob",
+                "bugger",
+                "bum",
+                "butt",
+                "buttplug",
+                "clitoris",
+                "cock",
+                "coon",
+                "crap",
+                "cunt",
+                "damn",
+                "dick",
+                "dildo",
+                "dyke",
+                "f u c k",
+                "fag",
+                "feck",
+                "felching",
+                "fellate",
+                "fellatio",
+                "flange",
+                "fuck",
+                "fudge packer",
+                "fudgepacker",
+                "hell",
+                "homo",
+                "jerk",
+                "jizz",
+                "knob end",
+                "knobend",
+                "labia",
+                "muff",
+                "nigga",
+                "nigger",
+                "penis",
+                "piss",
+                "poop",
+                "prick",
+                "pube",
+                "pussy",
+                "queer",
+                "s hit",
+                "scrotum",
+                "sex",
+                "sh1t",
+                "shit",
+                "slut",
+                "smegma",
+                "spunk",
+                "tit",
+                "tosser",
+                "turd",
+                "twat",
+                "vagina",
+                "wank"
+            ],
+            "responses": [
+                "Well, aren't you a paragon of eloquence and refinement!",
+                "Oh, I didn't realize we were playing the 'who can use the most imaginative vocabulary' game. You're clearly winning.",
+                "Congratulations on discovering those words! I'm sure your parents are very proud of your achievements.",
+                "Your vocabulary is a testament to the extensive research you've conducted in the field of profanity. Well done!",
+                "Ah, the delicate art of swearing. It's like poetry in its most unrefined form.",
+                "Please, continue gracing us with your linguistic virtuosity. It's truly enlightening.",
+                "Ah, I see you've found your muse in the world of expletives. It's a shame it doesn't pay the bills.",
+                "I'm amazed by your ability to articulate such profound thoughts with such colorful language. Have you considered a career in diplomacy?",
+                "Your command of language is truly awe-inspiring. I'm eagerly awaiting your next Shakespearean-level soliloquy.",
+                "Your words have the power to move mountains... or at least make us question your vocabulary choices.",
+                "Well, if insults were an Olympic sport, you'd surely be a gold medalist.",
+                "Ah, the wit and wisdom that emanate from your chosen words. It's a rare gift, indeed.",
+                "Well, aren't you a walking dictionary of creativity!",
+                "Ah, the classic potty mouth technique. Is that all you got?",
+                "Did you just invent a new word? Impressive!",
+                "I see we're playing the 'let's see who can come up with the most unique vocabulary' game. Challenge accepted!",
+                "Oh, I didn't realize we were auditioning for a role in a Quentin Tarantino movie. Should I start reciting lines now?",
+                "Thanks for sharing your linguistic talents. I'll be sure to add them to my collection of interesting vocabulary.",
+                "Ah, the power of words! I'm glad you've chosen such an eloquent way to express yourself.",
+                "I must say, your choice of words is truly awe-inspiring. Can I get an autograph?",
+                "Well, that was unexpected! It's like watching a stand-up comedian with no sense of humor.",
+                "Is this your way of testing my resilience? I've got my 'laughter in the face of swear words' badge ready!",
+                "Who needs a thesaurus when I have you? You bring new meaning to the term 'colorful language'.",
+                "Did you practice those words in front of the mirror? Your commitment to the art of swearing is admirable."
+            ]
+        },
+        {
+            "tag": "contact",
+            "patterns": [
+                "What is Faran's email?",
+                "What is Faran's LinkedIn?",
+                "What is Faran's GitHub?",
+                "What is Faran's contact number?",
+                "How can I reach out to Faran?",
+                "Can you provide Faran's contact details?",
+                "I want to connect with Faran. How can I do that?",
+                "Where can I find Faran's email and social media profiles?",
+                "What's the best way to get in touch with Faran?","How can I contact Faran?",
+                "Is there a preferred method to reach out to Faran?",
+                "Can you share Faran's contact information with me?",
+                "GitHub",
+                "LinkedIn",
+                "GitHub",
+                "instagram",
+                "insta",
+                "what are faran's socials"
+            ],
+            "responses": [
+                "To get in touch with Faran, you can send an email to farandeadz@gmail.com. Alternatively, you can connect with him on LinkedIn at www.linkedin.com/in/faranzafar, follow him on Instagram at @dummbzz, subscribe to his YouTube channel at https://www.youtube.com/channel/UC6TkGQRT_JiAeQZ4d_LMT0Q, or check out his projects on GitHub at https://github.com/farandead. If you prefer to have a conversation over the phone, you can contact him at 07424871403."
+            ]
+        },
+        {
+            "tag": "skills",
+            "patterns": [
+                "What skills does Faran have?",
+                "Tell me about Faran's skills.",
+                "What programming languages does Faran know?",
+                "Which tools does Faran use for graphic designing?",
+                "Can you list Faran's technical skills?",
+                "What are Faran's areas of expertise?",
+                "Is Faran proficient in any specific frameworks or libraries?",
+                "What programming projects has Faran worked on?"
+            ],
+            "responses": [
+                "Faran has skills in Front-End Development (HTML, CSS, HCSS, JS, Wix, Shopify, WordPress), Back-End Development (PHP, SQL, Spring Boot), Graphic Designing (Adobe Photoshop, Adobe Illustrator), Digital Marketing (Google Analytics, SEO, Social Media Ad Managing), and Programming (Java, Python, Haskell, Lisp, Ada).",
+                "Faran possesses expertise in a wide range of skills including Front-End Development using HTML, CSS, HCSS, JS, Wix, Shopify, and WordPress. He is also skilled in Back-End Development using PHP, SQL, and Spring Boot. In addition, he has proficiency in Graphic Designing tools such as Adobe Photoshop and Adobe Illustrator. Faran is knowledgeable in Digital Marketing techniques including Google Analytics, SEO, and Social Media Ad Managing. Moreover, he has programming experience in Java, Python, Haskell, Lisp, and Ada.",
+                "Faran's skill set is quite diverse. He excels in Front-End Development using HTML, CSS, HCSS, JS, Wix, Shopify, and WordPress. He is also well-versed in Back-End Development with expertise in PHP, SQL, and Spring Boot. When it comes to Graphic Designing, Faran is proficient in using tools like Adobe Photoshop and Adobe Illustrator. In the field of Digital Marketing, he has a good understanding of Google Analytics, SEO, and Social Media Ad Managing. Additionally, Faran is a skilled programmer with knowledge in Java, Python, Haskell, Lisp, and Ada.",
+                "Faran's technical skills include Front-End Development with proficiency in HTML, CSS, HCSS, JS, Wix, Shopify, and WordPress. He is also experienced in Back-End Development using PHP, SQL, and Spring Boot. In terms of Graphic Designing, Faran is skilled in using Adobe Photoshop and Adobe Illustrator. He has a strong grasp of Digital Marketing concepts such as Google Analytics, SEO, and Social Media Ad Managing. Moreover, Faran has a programming background with expertise in Java, Python, Haskell, Lisp, and Ada. He has applied his skills to various programming projects and is constantly expanding his knowledge in the field.",
+                "Faran is highly skilled in Front-End Development, specializing in HTML, CSS, HCSS, JS, Wix, Shopify, and WordPress. He also has a strong command of Back-End Development using PHP, SQL, and Spring Boot. In the realm of Graphic Designing, Faran utilizes tools like Adobe Photoshop and Adobe Illustrator to create visually appealing designs. His Digital Marketing expertise includes Google Analytics, SEO, and Social Media Ad Managing. In terms of programming, Faran is proficient in Java, Python, Haskell, Lisp, and Ada. He has applied these skills to various programming projects, showcasing his versatility and adaptability."
+            ]
+        },
+        {
+            "tag": "experience",
+            "patterns": [
+                "What is Faran's work experience?",
+                "Where has Faran worked before?",
+                "What jobs has Faran had?"
+            ],
+            "responses": [
+                "Faran has worked at Mascot Official Store, Faizan Motors LTD, and as a Freelance Web Developer. He also worked as a Waiter at Hospitality Indeed Flex and as a Store Replenisher at Saintsbury."
+            ]
+        },
+        {
+            "tag": "projects",
+            "patterns": [
+                "What projects has Faran worked on?",
+                "Can you tell me about Faran's projects?",
+                "What technologies did Faran use in his projects?",
+                "Tell me more about the Comp UK project.",
+                "What did Faran do in the KingsMen project?",
+                "What was the TouchWood project about?",
+                "What were the goals of the DreamBar project?",
+                "What skills did Faran apply in his projects?",
+                "What programming languages did Faran use in his projects?"
+            ],
+            "responses": [
+                "Faran has worked on multiple projects such as Comp UK, KingsMen, TouchWood, DreamBar, HollyLand, SMS (School Management System), SKYNET, Java Calculator, and Java Email Delivery System.",
+                "In these projects, Faran used a variety of technologies including HTML, CSS, JavaScript, SQL, PHP, Spring Boot, and Java.",
+                "The Comp UK project involved E-commerce website development using a range of technologies including HTML, CSS, JavaScript, SQL, and PHP. Faran was also involved in digital marketing and graphic designing for this project.",
+                "In the KingsMen project, Faran again worked on an E-commerce platform, using technologies such as HTML, CSS, JavaScript, SQL, and Spring Boot. He also took part in digital marketing and graphic designing for this project.",
+                "The TouchWood project was an E-commerce platform developed with Shopify. Faran's role involved HTML, CSS, JavaScript, and graphic design, as well as digital marketing.",
+                "DreamBar was another E-commerce project that Faran worked on. Here he used HTML, CSS, JavaScript, SQL, and PHP for the web development, along with digital marketing and graphic design.",
+                "In addition to these, Faran also created a school management system (SMS) using Java, and developed a Java Calculator and a Java Email Delivery System."
+            ]
+        },
+        {
+            "tag": "education",
+            "patterns": [
+                "What is Faran's educational background?",
+                "Where did Faran study?",
+                "What did Faran study in university?",
+                "What university did Faran go to?",
+                "Which high school did Faran go to?",
+                "What subjects did Faran study in high school?",
+                "What were Faran's favorite subjects in high school?",
+                "Does Faran have any degrees?",
+                "What subjects did Faran study in college?",
+                "What projects did Faran work on during his university years?",
+                "What is Faran's educational background?",
+                "Where did Faran study?",
+                "What did Faran study in university?",
+                "What university did Faran go to?",
+                "Which high school did Faran go to?",
+                "What subjects did Faran study in high school?",
+                "What were Faran's favorite subjects in high school?",
+                "Does Faran have any degrees?",
+                "What subjects did Faran study in college?",
+                "What projects did Faran work on during his university years?",
+                "Tell me about Faran's education.",
+                "Can you provide information about Faran's schooling?",
+                "Where did Faran receive his education?",
+                "What degrees does Faran hold?",
+                "Which subjects did Faran specialize in during high school?",
+                "Did Faran pursue higher education?",
+                "What academic qualifications does Faran have?",
+                "What universities did Faran attend?",
+                "Which institutions did Faran study at?"
+            ],
+            "responses": [
+                "Faran studied Computer Science BSc (with placement year) at Aston University.",
+                "Faran completed his high school education at Army Public School and Govt. Degree College Khairpur Tamewali.",
+                "At Aston University, Faran studied a variety of subjects related to Computer Science, including Object Oriented Programming, Internet Applications, Databases, Web Development, Business Aspects of Computing, and Databases and Structures in Java.",
+                "During his university years, Faran worked on several projects using various programming languages. He often took the lead on front-end design and was responsible for documenting most of the process related to front-end design.",
+                "Faran has a Bachelor of Science degree in Computer Science from Aston University.",
+                "In high school, Faran studied a variety of subjects and achieved an overall grade of 96.3% at Army Public School and 89% at Govt. Degree College Khairpur Tamewali."
+            ]
+        },
+        {
+            "tag": "interests",
+            "patterns": [
+                "What are Faran's interests?",
+                "What activities is Faran involved in?",
+                "What does Faran like to do in his spare time?",
+                "Is Faran interested in coding?",
+                "Does Faran like fitness?",
+                "Is Faran a gamer?",
+                "How does Faran make money?",
+                "Does Faran like video editing?",
+                "What kind of games does Faran play?",
+                "Does Faran work out?",
+                "What programming languages does Faran use?"
+            ],
+            "responses": [
+                "Faran is Treasurer of the Aston Computer Science Society, member of NUS Election Campaign, Aston Bright Futures Society, Aston Sports Club, and Aston Boxing Club.",
+                "Faran loves coding! He has worked on many projects using languages such as Java, Python, Haskell, Lisp and Ada.",
+                "Fitness is a big part of Faran's life. He's a member of Aston Sports Club and participates in various fitness related activities.",
+                "Gaming is one of Faran's hobbies. Whether it's video games or coding games, he loves them all.One of his favourits is Valorant",
+                "Faran is quite entrepreneurial. Through various roles, including freelance web development and E-commerce website management, he has learned to monetize his skills.",
+                "Video editing is another skill that Faran has. He uses tools like Adobe Photoshop and Adobe Illustrator for graphic designing, which includes video editing.",
+                "Faran enjoys a variety of games, but his favorites are the ones that involve strategy and problem-solving. It's like coding, but with an immediate win condition!",
+                "Yes, Faran loves working out. He believes that a healthy body contributes to a healthy mind, which is crucial for programming and problem-solving.",
+                "Faran is proficient in many programming languages. He mainly uses Java, Python, Haskell, Lisp and Ada, depending on the requirements of the project."
+            ]
+        },
+        {
+            "tag": "jokes",
+            "patterns": [
+                "Tell me a joke",
+                "Do you know any jokes",
+                "Can you share a joke",
+                "I want to hear a joke",
+                "Make me laugh"
+            ],
+            "responses": [
+                "Why don't scientists trust atoms? Because they make up everything!",
+                "Why did the bicycle fall over? Because it was two tired!",
+                "Why can't a leopard hide? Because he's always spotted!",
+                "What do you call fake spaghetti? An impasta!",
+                "I started crying when dad was cutting onions. Onions was such a good dog.",
+                "My parents raised me as an only child, which really pissed off my brother.",
+                "A son tells his father, 'I have an imaginary girlfriend.' The father sighs and says, 'You know, you could do better.' 'Thanks, Dad,' the son says. The father shakes his head and goes, 'I was talking to your girlfriend.'",
+                "If you donate one kidney, everybody loves you, and you’re a total hero. But donate five, and suddenly everyone is yelling. Sheesh!",
+                "I work with animals,' the guy says to his date. 'That’s so sweet,' she replies. 'I love a man who cares about animals. Are you a vet?' 'No, I’m a butcher,' he says.",
+                "It’s sad how my friend was struck from the medical register for sleeping with a patient. He was a great vet.",
+                "If at first, you don’t succeed… then skydiving definitely isn’t for you.",
+                "They say there’s a person capable of murder in every friendship group. I suspected it was Dave, so I killed him before he could cause any harm.",
+                "Why is the leper’s hockey game get canceled? There was a face-off in the corner.",
+                "My grandmother used to tell us a joke. She’d say, 'Knock knock,' we’d say, 'Who’s there?' Then she’d say, 'I can’t remember'… and start to cry.",
+                "Why do orphans like playing tennis? Because it’s the only love they get.",
+                "What’s the difference between me and cancer? My dad didn’t beat cancer.",
+                "My girlfriend’s dog died, so I tried to cheer her up by getting her an identical one. But, unfortunately, it just made her more upset. She screamed at me, 'What am I supposed to do with two dead dogs?'",
+                "Dentist: 'This will hurt a little.' Patient: 'OK.' Dentist: 'I’m having an affair with your wife.'",
+                "What is the worst combination of illnesses? Alzheimer’s and diarrhea. You’re running but can’t remember where.",
+                "Even people who are good for nothing have the capacity to bring a smile to your face. For instance, when you push them down the stairs.",
+                "What’s the similarity between a pregnant teen and the baby she is carrying? Both are thinking, 'shit, my mom is going to kill me.'",
+                "Why do women always look skinny after a miscarriage? They don’t lose their figure when they don’t go full term.",
+                "During a show, I once asked the crowd if they were pro-guns, and the majority belted out in approval. I asked a man in the front row why he was pro-guns, and he gave me the basic 'personal protection liberty 2nd amendment' hooplah. Very seriously, I told the crowd, 'I’m pro-guns because I enjoy living in a world with only four Nirvana albums.' My friend was the only one who laughed.",
+                "You don’t need a parachute to go skydiving. You need a parachute to go skydiving twice.",
+                "My girlfriend, who’s into astronomy, asked me how stars die. 'Usually an overdose,' I told her.",
+                "Two hunters are in the woods when one of them collapses. His hunting buddy immediately calls 911. 'My friend isn’t breathing,' he shouts into the phone. 'What should I do?' 'Relax,' the operator tells him. 'I can help. First, let’s make sure he’s dead.' There’s silence and then a gunshot. The guy gets back on the phone and says, 'OK, now what?'",
+                "My elderly relatives liked to tease me at weddings, saying, 'You’ll be next!' They soon stopped, though, once I started doing the same to them at funerals.",
+                "I was at the park the other day when a mother sat down beside me. After a while, she leaned over and asked, 'Which one is yours?' I looked at her and said, 'I haven’t decided yet.'",
+                "My wife and I have made a difficult choice and have decided we do not want children. If anybody does, please just send me your contact details, and we can drop them off tomorrow.",
+                "Doctor: 'I have good and bad news.' Patient: 'Give me the good news first.' Doctor: 'Your test results are back, and you have only two days to live.' Patient: 'That’s the good news? What’s the bad news?' Doctor: 'I’ve been trying to reach you for two days.'",
+                "I want to die peacefully in my sleep, just like my grandfather. Not screaming like the passengers in his car."
+            ]
+        },
+        {
+            "tag": "mentalHealth",
+            "patterns": [
+                "How is Faran feeling today?",
+                "Is Faran feeling okay?",
+                "Does Faran have any stress?",
+                "Is Faran happy?",
+                "How is Faran's mental health?",
+                "How is Faran's mental health?",
+                "Is Faran stressed?",
+                "Is Faran okay?",
+                "Is Faran feeling down?",
+                "Does Faran ever get tired?"
+            ],
+            "responses": [
+                "Faran is doing great, he recently debugged a really tricky piece of code without turning a hair!",
+                "Faran is a computer scientist, you know? They invented stress for him but he compiled it out of his life's code!",
+                "Faran is doing well. He's on cloud nine or rather, on the cloud server!",
+                "Mental health is important to Faran. After a long day of coding, he likes to unwind by solving more complex coding problems for fun!",
+                "Faran keeps his mental health in top shape by maintaining a balanced diet of coffee, energy drinks, and lines of code.",
+                "Faran? Stressed? Never! He considers debugging as yoga for the mind.",
+                "Faran's secret to mental health is an endless supply of coffee and coding challenges. They say that's the perfect recipe for happiness!",
+                "Faran once told me he found inner peace in a perfectly formatted piece of code. Sounds like a Zen state of mind to me!",
+                "I asked Faran if he was feeling down, he said he only feels 'down' when the internet goes down!",
+                "Tired? Apparently Faran told a friend that he'll sleep when his code runs without errors. I'm guessing he's really well-rested by now!",
+                "Faran's idea of a mental break is switching from Java to Python. I'm not sure how much of a 'break' that is, but he seems happy!",
+                "When I asked Faran how he deals with stress, he said 'I don't stress, I debug.'"
+            ]
+        },
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hello",
+                "Hi",
+                "Hey",
+                "Greetings",
+                "Good day",
+                "Howdy",
+                "What's up",
+                "Hi there",
+                "Hey there",
+                "How's it going",
+                "Good to see you",
+                "Nice to see you",
+                "Good morning",
+                "Good afternoon",
+                "Good evening",
+                "How do you do",
+                "Yo",
+                "Sup",
+                "Hello there",
+                "Long time no see",
+                "It's been a while",
+                "Hiya"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi there! What can I do for you?",
+                "Hey! How can I help you?",
+                "Greetings! How may I assist you?",
+                "Good to see you! How can I help you today?",
+                "Nice to see you! What can I do for you today?"
+            ]
+        },
+        {
+            "tag": "orkhan",
+            "patterns": [
+                
+                "orkhan",
+                "who is orkhan"
+                
+            ],
+            "responses": [
+                "Orkhan's gay he gives gwak gwak 3000"
+            
+            ]
+        }
+    ]
+}
