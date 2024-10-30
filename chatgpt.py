@@ -1,7 +1,7 @@
 import openai
     
     
-openai.api_key = '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'
+openai.api_key = ''
 model_engine = "text-davinci-002"
 prompt = "Hello, how are you today?"
     
